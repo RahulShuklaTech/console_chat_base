@@ -42,3 +42,5 @@ Fred chose scissors - Draw
 (R)ock, (P)aper or (S)cissors? 
 ```
 
+## Stretch
+Have the server store a record of each game in a [Google Firebase](https://firebase.google.com/) database
